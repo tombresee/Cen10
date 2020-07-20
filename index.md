@@ -39,7 +39,6 @@ One stop shop for latest information
 ### Social Media:
 
 *   [Facebook - Centennial](https://www.facebook.com/Cen10titans/)
-
 *   [Twitter - @Cen10Titans](https://twitter.com/cen10titans?lang=en)
 
 

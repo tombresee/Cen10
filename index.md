@@ -41,15 +41,16 @@ One stop shop for latest information
 
 ### Social Media:
 
-*   [Facebook - Centennial](https://www.facebook.com/Cen10titans/)
-*   [Twitter - @Cen10Titans](https://twitter.com/cen10titans?lang=en)
-*   [Twitter - Wrestling - ](https://twitter.com/cen10wrestling?lang=en)
+*   [Centennial - Facebook](https://www.facebook.com/Cen10titans/)
+*   [@Cen10Titans - Twitter](https://twitter.com/cen10titans?lang=en)
+*   [Wrestling - Twitter](https://twitter.com/cen10wrestling?lang=en)
+
 
 
 
 ### Safety:
 
-*   [COVID FAQ](https://www.friscoisd.org/departments/covid-19/coronavirus)
+*   [COVID FISD FAQ](https://www.friscoisd.org/departments/covid-19/coronavirus)
 
 
 

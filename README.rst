@@ -9,7 +9,6 @@ Centennial High School
 
 .. contents::
 
-.. section-numbering::
 
 
 |

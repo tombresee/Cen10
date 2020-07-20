@@ -1,96 +1,275 @@
-# Easy Markdown to Github Pages
+[![](https://img.shields.io/gem/v/geo_pattern.svg?style=flat)](http://rubygems.org/gems/geo_pattern)
+![Ruby](https://github.com/jasonlong/geo_pattern/workflows/Ruby/badge.svg)
+[![](https://img.shields.io/gem/dt/geo_pattern.svg?style=flat)](http://rubygems.org/gems/geo_pattern)
 
-## Introduction
+# GeoPattern
 
-This little guide demonstrate how to turn any [Github](http://github.com) repository with a bunch of [Markdown](https://en.wikipedia.org/wiki/Markdown) files into a simple website using [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
+Generate beautiful tiling SVG patterns from a string. The string is converted
+into a SHA and a color and pattern are determined based on the values in the
+hash. The color is determined by shifting the hue and saturation from a default
+(or passed in) base color. One of 16 patterns is used (or you can specify one)
+and the sizing of the pattern elements is also determined by the hash values.
 
-* You don't need to use the command line or anything other than your browser.
-* It doesn't require any knowledge in Jekyll.
-* It's completely compatible with any bunch of markdown files you already have in any existing repository without any modification to those files. That includes the basic `README.md` almost all repositories contain.
-* The markdown files will remain just as readable and usable in Github than in your website.
+You can use the generated pattern as the `background-image` for a container.
+Using the `base64` representation of the pattern still results in SVG
+rendering, so it looks great on retina displays.
 
-In fact this guide uses the same configuration and can be read both in Github and in Github Pages, at your preference:
+See the [GitHub Guides](https://guides.github.com/) site and the [Explore section
+of GitHub](https://github.com/explore) are examples of this library in action.
+Brandon Mills has put together an awesome [live preview
+page](http://btmills.github.io/geopattern/geopattern.html) that's built on his
+Javascript port.
 
-* [Here is the link to the Github version](https://github.com/nicolas-van/easy-markdown-to-github-pages)
-* [Here is the link to the Github Pages version](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
+## Installation
 
-## Step by step instructions
+**Note:** as of version `1.4.0`, Ruby version 2 or greater is required.
 
-### Determine the repository where you want to activate Github Pages
+Add this line to your application's Gemfile:
 
-You can of course create a new repository if you want.
+    gem 'geo_pattern'
 
-### Create the `_config.yml` file
+And then execute:
 
-That file should be created on the root of your repository. Here is some content to copy-paste in it:
+    $ bundle
 
+Or install it yourself as:
+
+    $ gem install geo_pattern
+
+## Usage
+
+Make a new pattern:
+
+```ruby
+pattern = GeoPattern.generate('Mastering Markdown')
 ```
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - CONTRIBUTING.md
-  - README.md
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
+
+To specify a base background color (with a hue and saturation that adjusts depending on the string):
+
+```ruby
+pattern = GeoPattern.generate('Mastering Markdown', base_color: '#fc0')
 ```
 
-It's basically just a few tuning of Github Pages' default configuration to have a better handling of Markdown files.
+To use a specific background color (w/o any hue or saturation adjustments):
 
-### Activate Github Pages in your repository configuration
+```ruby
+pattern = GeoPattern.generate('Mastering Markdown', color: '#fc0')
+```
 
-On the Github page of your project go into `Settings > Options > Github Pages`:
+To use a specific [pattern generator](#available-patterns):
 
-![](./printscreen1.png)
+```ruby
+pattern = GeoPattern.generate('Mastering Markdown', patterns: :sine_waves)
+```
 
-In the `Source` option, select `master branch` then `Save`:
+To use a subset of the [available patterns](#available-patterns):
 
-![](./printscreen2.png)
+```ruby
+pattern = GeoPattern.generate('Mastering Markdown', patterns: [:sine_waves, :xes])
+```
 
-You must also choose a theme:
+Get the SVG string:
 
-![](./printscreen3.png)
+```ruby
+puts pattern.to_svg
+# => <svg xmlns="http://www.w3.org/2000/svg" ...
+```
 
-That's it! Now you can juste use the link provided by Github to access you website:
+Get the Base64 encoded string:
 
-![](./printscreen4.png)
+```ruby
+puts pattern.to_base64
+# => PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC...
+```
 
-## Usage guide
+You can then use this string to set the background:
 
-* Any markdown file in your repository will display in your Github Pages website. You just have to use the same path to access it and replace the `.md` extension by `.html`.
-* To make links between your Markdown files just use a relative path to the other Markdown file. The configuration you copy pasted in your `_config.yml` provides a plugin to convert those URLs. So your Markdown files will have correct links both in Github and Github Pages.
-* The index page of your website can be a `index.md` file or a `README.md` file. If both exists the `index.md` file has priority.
-* You should be able to use any [Github Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```html
+<div style="background-image: <%= pattern.to_data_uri %>"></div>
+```
 
-## Known differences between Github and Github Pages
+## Available patterns
 
-* No automatic links with Github Pages. The Github Markdown renderer can automatically detect a simple copy-pasted link and make it a clickable link. Github Pages doesn't propose a feature to reproduce that behavior, so you'll have to braces your links with the `[]()` syntax.
+*Note: As of version `1.3.0`, string references (e.g. `overlapping_circles`)
+are deprecated in favor of symbol references (e.g. `:overlapping_circles`).*
 
-## Recipes
+### :chevrons
 
-Since the purpose of this guide is to demonstrate how to publish multiple Markdown files as a website but I don't have much more to say I will propose you some delicious recipes instead:
+![](http://jasonlong.github.io/geo_pattern/examples/chevrons.png)
 
-* [Escalivada](./recipes/Escalivada.md)
-* [Gazpacho](./recipes/Gazpacho.md)
-* [Pasta all'amatriciana](./recipes/Pasta_all_amatriciana.md)
 
-## Other Github Pages related projects
+### :octagons
 
-I'm a fan of Github Pages for the possibilities it offers to anyone to publish a website for free. I have multiple projects that could be of interest if that's your case too:
+![](http://jasonlong.github.io/geo_pattern/examples/octogons.png)
 
-* [Bootstrap 4 Github Pages](https://nicolas-van.github.io/bootstrap-4-github-pages/)
-* [Parcel Github Pages Boilerplate](https://github.com/nicolas-van/parcel-github-pages-boilerplate)
+### :overlapping_circles
+
+![](http://jasonlong.github.io/geo_pattern/examples/overlapping_circles.png)
+
+### :plus_signs
+
+![](http://jasonlong.github.io/geo_pattern/examples/plus_signs.png)
+
+### :xes
+
+![](http://jasonlong.github.io/geo_pattern/examples/xes.png)
+
+### :sine_waves
+
+![](http://jasonlong.github.io/geo_pattern/examples/sine_waves.png)
+
+### :hexagons
+
+![](http://jasonlong.github.io/geo_pattern/examples/hexagons.png)
+
+### :overlapping_rings
+
+![](http://jasonlong.github.io/geo_pattern/examples/overlapping_rings.png)
+
+### :plaid
+
+![](http://jasonlong.github.io/geo_pattern/examples/plaid.png)
+
+### :triangles
+
+![](http://jasonlong.github.io/geo_pattern/examples/triangles.png)
+
+### :squares
+
+![](http://jasonlong.github.io/geo_pattern/examples/squares.png)
+
+### :nested_squares
+
+![](http://jasonlong.github.io/geo_pattern/examples/nested_squares.png)
+
+### :mosaic_squares
+
+![](http://jasonlong.github.io/geo_pattern/examples/mosaic_squares.png)
+
+### :concentric_circles
+
+![](http://jasonlong.github.io/geo_pattern/examples/concentric_circles.png)
+
+### :diamonds
+
+![](http://jasonlong.github.io/geo_pattern/examples/diamonds.png)
+
+### :tessellation
+
+![](http://jasonlong.github.io/geo_pattern/examples/tessellation.png)
+
+
+## Inspection of pattern
+
+If you want to get some more information about a pattern, please use the
+following methods.
+
+```ruby
+pattern = GeoPattern.generate('Mastering Markdown', patterns: [:sine_waves, :xes])
+
+# The color of the background in html notation
+pattern.background.color.to_html
+
+# The color of the background in svg notation
+pattern.background.color.to_svg
+
+
+# The input colors
+pattern.background.preset.color
+pattern.background.preset.base_color
+
+# The generator
+pattern.background.generator
+```
+
+To get more information about the structure of the pattern, please use the following methods:
+
+```ruby
+pattern = GeoPattern.generate('Mastering Markdown', patterns: [:sine_waves, :xes])
+
+# The name of the structure
+pattern.structure.name
+
+# The generator of the structure
+pattern.structure.generator
+```
+
+## Rake Support
+
+```ruby
+string = 'Mastering markdown'
+
+require 'geo_pattern/geo_pattern_task'
+
+GeoPattern::GeoPatternTask.new(
+  name: 'generate',
+  description: 'Generate patterns to make them available as fixtures',
+  data: {
+    'fixtures/generated_patterns/diamonds_with_color.svg'      => { input: string, patterns: [:diamonds], color: '#00ff00' },
+    'fixtures/generated_patterns/diamonds_with_base_color.svg' => { input: string, patterns: [:diamonds], base_color: '#00ff00' }
+  }
+)
+```
+
+## Developing
+
+### Generate Fixtures
+
+```ruby
+rake fixtures:generate
+```
+
+### Run tests
+
+```ruby
+rake test
+```
 
 ## Contributing
 
-See the [Contribution Guide](./CONTRIBUTING.md).
+1. Fork it ( https://github.com/jasonlong/geo_pattern/fork )
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request
 
-## License
+## Development
 
-See the [License File](./LICENSE.md).
+Prefix rspec-commandline with `RSPEC_PROFILE=1` to output the ten slowest
+examples of the test suite.
+
+```bash
+RSPEC_PROFILE=1 bundle exec rspec
+```
+
+## Ports & related projects
+
+JavaScript port by Brandon Mills:
+https://github.com/btmills/geopattern
+
+TypeScript port by MooYeol Lee:
+https://github.com/mooyoul/geo-pattern
+
+Python port by Bryan Veloso:
+https://github.com/bryanveloso/geopatterns
+
+Elixir port by Anne Johnson:
+https://github.com/annejohnson/geo_pattern
+
+PHP port by Anand Capur:
+https://github.com/redeyeventures/geopattern-php
+
+Go port by Pravendra Singh:
+https://github.com/pravj/geopattern
+
+CoffeeScript port by Aleks (muchweb):
+https://github.com/muchweb/geo-pattern-coffee
+
+Cocoa port by Matt Faluotico:
+https://github.com/mattfxyz/GeoPattern-Cocoa
+
+Middleman extension by @maxmeyer:
+https://github.com/fedux-org/middleman-geo_pattern
+
+Dart(Flutter) port by @suyash:
+https://github.com/suyash/geopattern

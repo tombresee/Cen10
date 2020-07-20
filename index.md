@@ -4,16 +4,6 @@ layout: default
 
 
 
-[Link to another page](./another-page.html)
-
-
-
-## Header 2
-
-
-
-### Header 3
-
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -26,9 +16,10 @@ layout: default
 
 * * *
 
+
 ### Here is an unordered list:
 
-*   Item foo
+*   [Link to another page](./another-page.html)
 *   Item bar
 *   Item baz
 *   Item zip

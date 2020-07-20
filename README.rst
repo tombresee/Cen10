@@ -19,12 +19,12 @@ What is this repo ?
 =====================
 
 
-The following github repo (updated periodically) contains detailed information, worked jupyter notebooks, and consolidated scripts associated with:
+The following repo (updated periodically) contains consolidated information associated with: 
 
-* Apache Spark
-* Databricks
+* Centennial High School (Frisco, TX)
 
-Nothing in this repo is proprietary or employment related, it is basically a good location for public engineers to go for Spark reference.  
+Non-proprietary information enclosed. 
+
 
 
 |

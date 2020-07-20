@@ -32,8 +32,7 @@ One stop shop for latest information
 
 ### Sports:
 
-*   <>
-
+*   
 
 
 

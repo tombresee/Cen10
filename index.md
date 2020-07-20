@@ -3,7 +3,9 @@ layout: default
 ---
 
 
-One stop shop for latest information 
+One stop shop for latest information...
+
+<br>
 
 
 
@@ -25,7 +27,7 @@ One stop shop for latest information
 
 ### Education:
 
-*   HAC
+*   [HAC](https://hac.friscoisd.org/HomeAccess/Account/LogOn?ReturnUrl=%2fhomeaccess%2f)
 *   [Canvas](https://fisd.instructure.com/)
 *   [FISD Academic Guide](https://github.com/tombresee/Cen10/raw/master/files/2020-21-academic-guide-and-course-catalog.pdf)
 *   [2020-21 Virtual Course Offerings](https://www.friscoisd.org/departments/covid-19/virtual-instruction/2020-21-course-offerings)

@@ -19,7 +19,7 @@ One stop shop for latest information...
 
 * 8/4:  Freshmen “pick-up” at CHS to receive Cen10 T-shirt and Chromebook  
 * 8/12:  Schedule viewable on HAC
-* 8/13:  First day of school
+* 8/13:  First day of school (Thur)
 * 9/8:  First day of in-person classes
    
 
@@ -77,10 +77,10 @@ One stop shop for latest information...
 ### Safety:
 
 *   [COVID FISD FAQ](https://www.friscoisd.org/departments/covid-19/coronavirus)
+  * [H.S. Protocol](https://docs.google.com/document/d/e/2PACX-1vRJw0oRCNzjS5w4qpQjZe1MMVM0nLfJzXm31PkExwcamNHjeRDu32WDnS-iWeixE3irHBeBEOdlp-TY/pub)
 
 
 
-
-<br><br><br>
+<br><br><br><br>
 
 

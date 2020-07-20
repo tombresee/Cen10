@@ -63,7 +63,6 @@ Education
 Safety 
 -------------------
 
-|
 
 * `FAQ <https://www.friscoisd.org/departments/covid-19/coronavirus>`_
   — To stay up-to-date in the latest news, plans, etc, use this FAQ

@@ -1,7 +1,7 @@
 
 
-Prairie Fire
-###################################################
+Centennial High School
+##########################
 
 
 
@@ -28,19 +28,6 @@ The following github repo (updated periodically) contains detailed information, 
 * Databricks
 
 Nothing in this repo is proprietary or employment related, it is basically a good location for public engineers to go for Spark reference.  
-
-
-|
-|
-
-
-Why Apache Spark ? 
-=====================
-
-* Runs workloads up to 100x+ faster than conventional approaches
-* True Distributed Processing
-* Extremely flexible 
-
 
 
 |

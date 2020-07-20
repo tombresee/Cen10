@@ -62,7 +62,7 @@ Databricks
 
 |
 
-Main
+aaa
 ~~~~~~~~~~~~~~~~
 
 * `Documentation <https://docs.databricks.com/>`_
@@ -76,7 +76,7 @@ Main
 |
 
 
-ccc
+bbb
 ~~~~~~~~~~~~~~~~~~~
 
 
@@ -85,46 +85,18 @@ ccc
 
 
 
-|
-
-
-aaa
-~~~~~~~~~~~~~~~~~~~~
-
-
-* `Delta Table Transaction Log rev <https://databricks.com/blog/2019/08/21/diving-into-delta-lake-unpacking-the-transaction-log.html>`_
-
-* `Delta Metastore <https://docs.databricks.com/data/metastores/index.html#metastores>`_
-
-
 
 
 |
 |
 
 
-bbb
+FISD COVID-19
 ~~~~~~~~~~~~~~~~~~~~~
 
-* `Notebook I <https://pages.databricks.com/rs/094-YMS-629/images/01-Delta%20Lake%20Workshop%20-%20Delta%20Lake%20Primer.html>`_
-  — 1 of 3 
+* `FAQ <https://www.friscoisd.org/departments/covid-19/coronavirus>`_
+  — To stay up-to-date in the latest news, plans, etc, use this FAQ
 
-
-
-
-
-|
-|
-
-
-
-
-Prairie Fire API v3
-----------------------------
-
-
-* `API <https://api.github.com/repos/tombresee/Prairie-Fire/contents/ENTER>`_
-  — this github repo's main files listed in JSON form (v3 version)
 
 
 

@@ -43,7 +43,7 @@ One stop shop for latest information
 
 *   [Facebook - Centennial](https://www.facebook.com/Cen10titans/)
 *   [Twitter - @Cen10Titans](https://twitter.com/cen10titans?lang=en)
-
+*   [Twitter - Wrestling - ](https://twitter.com/cen10wrestling?lang=en)
 
 
 

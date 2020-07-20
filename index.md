@@ -65,7 +65,9 @@ One stop shop for latest information...
 
 *   [FISD.org](https://www.friscoisd.org/)
 *   [FISD Depts](https://www.friscoisd.org/departments)
-*   [FISD Student Portal](https://www.friscoisd.org/students)
+*   [FISD Students](https://www.friscoisd.org/students)
+*   [Student Portal](https://portal.friscoisd.org/LoginPolicy.jsp)
+
 
 
 <br>

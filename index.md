@@ -13,11 +13,11 @@ One stop shop for latest information
 
 ### Important Dates:
 
-*   8/4:  Freshmen “pick-up” at CHS to receive Cen10 T-shirt and Chromebook 
-*   8/12:  Schedule viewable on HAC
-*   8/13:  First day of school
-*   9/8:  First day of in-person classes
-*   
+8/4:  Freshmen “pick-up” at CHS to receive Cen10 T-shirt and Chromebook 
+8/12:  Schedule viewable on HAC
+8/13:  First day of school
+9/8:  First day of in-person classes
+   
 
 
 

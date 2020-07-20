@@ -43,9 +43,9 @@ One stop shop for latest information...
 
 ### Social Media:
 
-*   [Centennial - Facebook](https://www.facebook.com/Cen10titans/)
-*   [@Cen10Titans - Twitter](https://twitter.com/cen10titans?lang=en)
-*   [Wrestling - Twitter](https://twitter.com/cen10wrestling?lang=en)
+*   [Centennial - FB](https://www.facebook.com/Cen10titans/)
+*   [@Cen10Titans - TW](https://twitter.com/cen10titans?lang=en)
+*   [Wrestling - TW](https://twitter.com/cen10wrestling?lang=en)
 
 
 

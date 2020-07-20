@@ -23,8 +23,6 @@ The following repo (updated periodically) contains consolidated information asso
 
 * Centennial High School (Frisco, TX)
 
-Non-proprietary information enclosed. 
-
 
 
 |

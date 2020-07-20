@@ -77,7 +77,9 @@ Sports
 Social Media   
 -------------------------
 
-* For weekly updates, celebrations and information, follow on Facebook at Frisco Centennial High School and on Twitter `Cen10Titans <https://twitter.com/cen10titans?lang=en>`_
+* For weekly updates and information, follow social media links
+* Facebook:  Frisco Centennial High School
+* Twitter:  `Cen10Titans <https://twitter.com/cen10titans?lang=en>`_
 
 
 |

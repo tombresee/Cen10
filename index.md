@@ -22,11 +22,14 @@ One stop shop for latest information...
 * 8/13: &ensp; First day of school (Thur) - virtual
 * 8/21: &ensp; No school (Fri)
 * 8/28: &ensp; No school (Fri)
-* 9/3:  &ensp; First day of in-person on-campus classes. Come to school face to face for one day, then have a 4-day weekend, and then return to face to face school on the Sept 8th
+* 9/3:  &ensp; First day of in-person on-campus classes. Come to school for one day, then have a 4-day weekend, and then return to face-to-face school on Sept 8
 * 9/4: &ensp; No school (Fri)
 * 9/7: &ensp; No school (Mon Labor Day)
 * 9/8: &ensp; Normal School
 * [Updated Calendar](http://www.friscoisd.org/docs/default-source/frisco-isd-calendars/2020-21-school-calendar.pdf?sfvrsn=6) - latest calendar reference in pdf
+
+
+
 
 
 
@@ -51,7 +54,15 @@ One stop shop for latest information...
 
 
 
+
+
+
+
 <br>
+
+
+
+
 
 
 
@@ -61,11 +72,19 @@ One stop shop for latest information...
 *  [Master FISD Sports Schedule](http://www.friscoisd.org/calendar/frisco-isd-athletics-calendar#allsports)
 *  [Main CHS Athletics](https://www.gocentennialtitans.com/)
 *  [Football Schedules](https://www.gocentennialtitans.com/sport/football/boys/) - *being updated*
+*  [Ford Center](https://www.thestarinfrisco.com/ford-center/)
+
+
+
 
 
 
 
 <br>
+
+
+
+
 
 
 
@@ -80,7 +99,14 @@ One stop shop for latest information...
 
 
 
+
+
+
+
 <br>
+
+
+
 
 
 

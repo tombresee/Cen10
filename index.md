@@ -17,7 +17,7 @@ One stop shop for latest information...
 
 ### Important Dates:
 
-* 8/4:  Freshmen “pick-up” at CHS to receive Cen10 T-shirt and Chromebook  
+* 8/4:  &ensp; Freshmen “pick-up” at CHS to receive Cen10 T-shirt and Chromebook  
 * 8/12:  Schedule viewable on HAC
 * 8/13:  First day of school (Thur) - virtual
 * 8/21:  No school (Fri)

@@ -72,10 +72,12 @@ One stop shop for latest information...
 
 *   [Centennial - FB](https://www.facebook.com/Cen10titans/)
 *   [@Cen10Titans - TW](https://twitter.com/cen10titans?lang=en)
+*   [@Cen10 News - TW](https://twitter.com/Cen10News)
 *   [Wrestling - TW](https://twitter.com/cen10wrestling?lang=en)
 
 
 <br>
+
 
 
 
@@ -85,6 +87,7 @@ One stop shop for latest information...
 *   [FISD Depts](https://www.friscoisd.org/departments)
 *   [FISD Students](https://www.friscoisd.org/students)
 *   [Student Portal](https://portal.friscoisd.org/LoginPolicy.jsp)
+
 
 
 
@@ -99,6 +102,8 @@ One stop shop for latest information...
 
 
 
-<br><br><br><br>
+
+
+<br><br><br><br><br>
 
 

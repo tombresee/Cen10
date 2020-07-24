@@ -28,6 +28,7 @@ One stop shop for latest information...
 
 ### Education:
 
+*   [Bell Schedule](files/bell.txt)
 *   [HAC](https://hac.friscoisd.org/HomeAccess/Account/LogOn?ReturnUrl=%2fhomeaccess%2f)
 *   [Canvas](https://fisd.instructure.com/)
 *   [FISD Academic Guide](https://github.com/tombresee/Cen10/raw/master/files/2020-21-academic-guide-and-course-catalog.pdf)

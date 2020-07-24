@@ -19,10 +19,14 @@ One stop shop for latest information...
 
 * 8/4:  Freshmen “pick-up” at CHS to receive Cen10 T-shirt and Chromebook  
 * 8/12:  Schedule viewable on HAC
-* 8/13:  First day of school (Thur)
+* 8/13:  First day of school (Thur) - virtual
+* 8/21:  No school
+* 8/28:  No school
 * 9/3:  First day of in-person classes * 
   * Come to school face to face for one day, then have a 4-day weekend, and then return to face to face school on the Sept 8th
-   
+* 9/4: No school 
+
+
 
 <br>
 

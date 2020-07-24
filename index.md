@@ -27,7 +27,7 @@ One stop shop for latest information...
 * 9/4: No school (Fri)
 * 9/7: No school (Mon Labor Day)
 * 9/8: Normal School
-* [Updated Calendar](files/updatedcalendar.pdf)
+* [Updated Calendar](http://www.friscoisd.org/docs/default-source/frisco-isd-calendars/2020-21-school-calendar.pdf?sfvrsn=6)
 
 
 <br>
@@ -55,6 +55,7 @@ One stop shop for latest information...
 
 
 
+
 ### Sports:
 
 *  [Master FISD Sports Schedule](http://www.friscoisd.org/calendar/frisco-isd-athletics-calendar#allsports)
@@ -75,7 +76,7 @@ One stop shop for latest information...
 *   [@Cen10Titans - TW](https://twitter.com/cen10titans?lang=en)
 *   [@Cen10 News - TW](https://twitter.com/Cen10News)
 *   [@Centennial Wrestling - TW](https://twitter.com/cen10wrestling?lang=en)
-
+*   [@SOCfisd - TW](https://twitter.com/socfisd) - Student Opportunity Center
 
 
 
@@ -84,9 +85,19 @@ One stop shop for latest information...
 
 
 
+### Phone Apps:
+
+*  [Master FISD Sports Schedule](http://www.friscoisd.org/calendar/frisco-isd-athletics-calendar#allsports)
+*  [Main CHS Athletics](https://www.gocentennialtitans.com/)
+*  [Football Schedules](https://www.gocentennialtitans.com/sport/football/boys/) - *being updated*
+
+
+<br>
+
+
 ### FISD.org:
 
-*   [FISD.org](https://www.friscoisd.org/)
+*   [FISD friscoisd.org](https://www.friscoisd.org/)
 *   [FISD Depts](https://www.friscoisd.org/departments)
 *   [FISD Students](https://www.friscoisd.org/students)
 *   [Student Portal](https://portal.friscoisd.org/LoginPolicy.jsp)

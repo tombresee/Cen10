@@ -27,7 +27,7 @@ One stop shop for latest information...
 * 9/4: No school (Fri)
 * 9/7: No school (Mon Labor Day)
 * 9/8: Normal School
-
+* [Updated Calendar](files/updatedcalendar.pdf)
 
 
 <br>
@@ -68,12 +68,15 @@ One stop shop for latest information...
 
 
 
+
 ### Social Media:
 
 *   [Centennial - FB](https://www.facebook.com/Cen10titans/)
 *   [@Cen10Titans - TW](https://twitter.com/cen10titans?lang=en)
 *   [@Cen10 News - TW](https://twitter.com/Cen10News)
-*   [Wrestling - TW](https://twitter.com/cen10wrestling?lang=en)
+*   [@Centennial Wrestling - TW](https://twitter.com/cen10wrestling?lang=en)
+
+
 
 
 <br>

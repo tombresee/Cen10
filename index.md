@@ -18,15 +18,15 @@ One stop shop for latest information...
 ### Important Dates:
 
 * 8/4:  &ensp; Freshmen “pick-up” at CHS to receive Cen10 T-shirt and Chromebook  
-* 8/12:  Schedule viewable on HAC
-* 8/13:  First day of school (Thur) - virtual
-* 8/21:  No school (Fri)
-* 8/28:  No school (Fri)
-* 9/3:  First day of in-person on-campus classes * 
+* 8/12: &ensp; Schedule viewable on HAC
+* 8/13: &ensp; First day of school (Thur) - virtual
+* 8/21: &ensp; No school (Fri)
+* 8/28: &ensp; No school (Fri)
+* 9/3:  &ensp; First day of in-person on-campus classes * 
   * Come to school face to face for one day, then have a 4-day weekend, and then return to face to face school on the Sept 8th
-* 9/4: No school (Fri)
-* 9/7: No school (Mon Labor Day)
-* 9/8: Normal School
+* 9/4: &ensp; No school (Fri)
+* 9/7: &ensp; No school (Mon Labor Day)
+* 9/8: &ensp; Normal School
 * [Updated Calendar](http://www.friscoisd.org/docs/default-source/frisco-isd-calendars/2020-21-school-calendar.pdf?sfvrsn=6)
 
 

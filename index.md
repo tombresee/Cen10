@@ -10,6 +10,7 @@ One stop shop for latest information...
 
 
 
+
 * * *
 
 
@@ -26,8 +27,7 @@ One stop shop for latest information...
 * 9/4: &ensp; No school (Fri)
 * 9/7: &ensp; No school (Mon Labor Day)
 * 9/8: &ensp; Normal School
-* [Updated Calendar](http://www.friscoisd.org/docs/default-source/frisco-isd-calendars/2020-21-school-calendar.pdf?sfvrsn=6) - latest calendar reference in pdf
-
+* Latest School Calendar [pdf](http://www.friscoisd.org/docs/default-source/frisco-isd-calendars/2020-21-school-calendar.pdf?sfvrsn=6)
 
 
 
@@ -47,7 +47,7 @@ One stop shop for latest information...
 *   [FISD Academic Guide](https://github.com/tombresee/Cen10/raw/master/files/2020-21-academic-guide-and-course-catalog.pdf)
 *   [2020-21 Virtual Course Offerings](https://www.friscoisd.org/departments/covid-19/virtual-instruction/2020-21-course-offerings)
 *   [School Cafe](https://www.schoolcafe.com/)
-*   [Technology Quick Reference Sheet](https://www.smore.com/app/reporting/out/euq6d?u=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1oAmbn5sJW-sdFqOaiFOAAMnNw8fGEU54N5GA4o6Ih-c%2Fedit%3Fusp%3Dsharing&t=https://docs.google.com/document/d/1oAmbn5sJW-sdFqOaiFOAAMnNw8fGEU54N5GA4o6Ih-c/edit?usp=sharing&w=w-5947685056&i=&l=l-5548263445) - Googledoc for often used/references technology for both in-person and virtual courses at CHS
+*   [Technology Quick Reference Sheet](https://www.smore.com/app/reporting/out/euq6d?u=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1oAmbn5sJW-sdFqOaiFOAAMnNw8fGEU54N5GA4o6Ih-c%2Fedit%3Fusp%3Dsharing&t=https://docs.google.com/document/d/1oAmbn5sJW-sdFqOaiFOAAMnNw8fGEU54N5GA4o6Ih-c/edit?usp=sharing&w=w-5947685056&i=&l=l-5548263445) - Googledoc reference for both in-person and virtual courses at CHS
 *   [Centennial H.S. main page](http://schools.friscoisd.org/campus/high-school/centennial/home)
 *   [CHS Newsletters](https://sites.google.com/friscoisd.org/chsnewsletter/home?authuser=0)
 

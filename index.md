@@ -20,15 +20,20 @@ One stop shop for latest information...
 * 8/4:  Freshmen “pick-up” at CHS to receive Cen10 T-shirt and Chromebook  
 * 8/12:  Schedule viewable on HAC
 * 8/13:  First day of school (Thur) - virtual
-* 8/21:  No school
-* 8/28:  No school
-* 9/3:  First day of in-person classes * 
+* 8/21:  No school (Fri)
+* 8/28:  No school (Fri)
+* 9/3:  First day of in-person on-campus classes * 
   * Come to school face to face for one day, then have a 4-day weekend, and then return to face to face school on the Sept 8th
-* 9/4: No school 
+* 9/4: No school (Fri)
+* 9/7: No school (Mon Labor Day)
+* 9/8: Normal School
 
 
 
 <br>
+
+
+
 
 
 ### Education:
@@ -40,8 +45,8 @@ One stop shop for latest information...
 *   [2020-21 Virtual Course Offerings](https://www.friscoisd.org/departments/covid-19/virtual-instruction/2020-21-course-offerings)
 *   [School Cafe](https://www.schoolcafe.com/)
 *   [Technology Quick Reference Sheet](https://www.smore.com/app/reporting/out/euq6d?u=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1oAmbn5sJW-sdFqOaiFOAAMnNw8fGEU54N5GA4o6Ih-c%2Fedit%3Fusp%3Dsharing&t=https://docs.google.com/document/d/1oAmbn5sJW-sdFqOaiFOAAMnNw8fGEU54N5GA4o6Ih-c/edit?usp=sharing&w=w-5947685056&i=&l=l-5548263445) - Googledoc for often used/references technology for both in-person and virtual courses at CHS
-*   
-
+*   [Centennial H.S. main page](http://schools.friscoisd.org/campus/high-school/centennial/home)
+*   [CHS Newsletters](https://sites.google.com/friscoisd.org/chsnewsletter/home?authuser=0)
 
 
 
@@ -53,6 +58,9 @@ One stop shop for latest information...
 ### Sports:
 
 *  [Master FISD Sports Schedule](http://www.friscoisd.org/calendar/frisco-isd-athletics-calendar#allsports)
+*  [Main CHS Athletics](https://www.gocentennialtitans.com/)
+*  [Football Schedules](https://www.gocentennialtitans.com/sport/football/boys/) - *being updated*
+
 
 
 

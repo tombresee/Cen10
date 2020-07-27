@@ -290,7 +290,7 @@ Students wishing to submit documentation for the district’s community service 
 
 ### ToDo:
 
-* install office 365 entities 
+* install ms office 365 entities 
     *  [link](http://www.friscoisd.org/departments/technology-and-media-services/office-365)
 * confirm overall access to all systems via multiple computer/cellphones
 * install all apps including canvas, etc

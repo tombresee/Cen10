@@ -107,7 +107,7 @@ One stop shop for latest information...
 *   [Centennial H.S. main page](http://schools.friscoisd.org/campus/high-school/centennial/home)
 *   [Centennial H.S. main links](http://schools.friscoisd.org/campus/high-school/centennial/home)
 *   [Bell Schedule](files/bell.txt)
-*   [HAC](hac.friscoisd.org/HomeAccess/Account/LogOn)
+*   [HAC](https://hac.friscoisd.org/HomeAccess/Account/LogOn?ReturnUrl=%2fhomeaccess%2f)
 *   [Canvas](https://fisd.instructure.com/)
 *   [FISD Academic Guide](https://github.com/tombresee/Cen10/raw/master/files/2020-21-academic-guide-and-course-catalog.pdf)
 *   [2020-21 Virtual Course Offerings](https://www.friscoisd.org/departments/covid-19/virtual-instruction/2020-21-course-offerings)

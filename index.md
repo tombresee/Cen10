@@ -73,6 +73,7 @@ One stop shop for latest information...
 
 
 
+
 ### Education:
 
 *   [Bell Schedule](files/bell.txt)
@@ -86,6 +87,25 @@ One stop shop for latest information...
 *   [CHS Newsletters](https://sites.google.com/friscoisd.org/chsnewsletter/home?authuser=0)
 
 
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+### FISD Tech Support: 
+
+*  [Tech Support](https://fisd.instructure.com/courses/53785)
+*  [Student Toolbox](https://sites.google.com/friscoisd.org/student-toolbox/home)
+*  [Technologies](files/access.png)
 
 
 
@@ -218,7 +238,7 @@ Students wishing to submit documentation for the district’s community service 
 * Office 365 installation overview:  http://www.friscoisd.org/departments/technology-and-media-services/office-365
 * confirm access to all systems working ! 
 * install canvas app 
-* g-suite for education 
+* g-suite for education fully download 
 * https://docs.google.com/document/d/1oAmbn5sJW-sdFqOaiFOAAMnNw8fGEU54N5GA4o6Ih-c/edit#
 
 

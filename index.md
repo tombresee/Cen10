@@ -106,12 +106,6 @@ One stop shop for latest information...
 
 *   [Centennial H.S. main page](http://schools.friscoisd.org/campus/high-school/centennial/home)
 *   [Centennial H.S. main links](http://schools.friscoisd.org/campus/high-school/centennial/home)
-
-
-http://schools.friscoisd.org/campus/high-school/centennial/home
-
-
-
 *   [Bell Schedule](files/bell.txt)
 *   [HAC](hac.friscoisd.org/HomeAccess/Account/LogOn)
 *   [Canvas](https://fisd.instructure.com/)

@@ -63,7 +63,7 @@ One stop shop for latest information...
 <b>Freshman Conditioning:<b/>
 * Aug 03: &ensp;  8:30-10:30 AM
 * Aug 04:  &ensp;  8:30-10:30 AM
-* Aug 05, 6,7: &ensp; 6:15-8:15 AM
+* Aug 05, 06, 07: &ensp; 6:15-8:15 AM
 * Aug 10, 12, 13: &ensp;  6:15-8:15 AM
 
 

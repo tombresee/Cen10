@@ -90,6 +90,18 @@ One stop shop for latest information...
 
 
 
+<br>
+
+
+
+
+
+
+### Student Computer Request Form:
+
+*   [form](https://docs.google.com/forms/d/e/1FAIpQLSfokvCjuUkinTYuwmn9gCTVpVX24B-i5n7zwf81HyDilIhKjw/viewform)
+
+
 
 
 
@@ -135,6 +147,7 @@ One stop shop for latest information...
 <br>
 
 
+
 ### FISD.org:
 
 *   [FISD friscoisd.org](https://www.friscoisd.org/)
@@ -157,6 +170,7 @@ One stop shop for latest information...
 
 
 <br>
+
 
 
 

@@ -16,13 +16,18 @@ One stop shop for latest information...
 
 
 
+
 ![](files/calendar.png)
+
 
 
 
 * * *
 
+
 <br>
+
+
 
 
 
@@ -51,10 +56,6 @@ One stop shop for latest information...
 
 
 
-
-
-
-
 ### Important Football Dates:
 
 <b>Freshman Conditioning:<b/>
@@ -67,12 +68,20 @@ One stop shop for latest information...
 
 
 
-
 <br>
 
 
 
 
+### Freshman Orientation:
+
+*   [update](https://www.smore.com/a21mj-camp-cen10-freshmen-orientation?ref=email)
+
+
+
+
+
+<br>
 
 
 
@@ -285,10 +294,8 @@ Students wishing to submit documentation for the district’s community service 
 * install canvas app 
 * g-suite for education fully download 
 * https://docs.google.com/document/d/1oAmbn5sJW-sdFqOaiFOAAMnNw8fGEU54N5GA4o6Ih-c/edit#
-
-
-
-
+* pts alpha, beta
+* 
 
 
 

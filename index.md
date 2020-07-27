@@ -30,15 +30,15 @@ One stop shop for latest information...
 
 ### Important Dates:
 
-* 8/4:  &ensp; Freshmen “pick-up” at CHS to receive Cen10 T-shirt and Chromebook  
-* 8/12: &ensp; Schedule viewable on HAC
-* 8/13: &ensp; First day of school (Thur) - virtual
-* 8/21: &ensp; No school (Fri)
-* 8/28: &ensp; No school (Fri)
-* 9/3:  &ensp; First day of in-person on-campus classes. Come to school for one day, then have a 4-day weekend, and then return to face-to-face school on Sept 8
-* 9/4: &ensp; No school (Fri)
-* 9/7: &ensp; No school (Mon Labor Day)
-* 9/8: &ensp; Normal School
+* Aug 4:  &ensp; Freshmen “pick-up” at CHS to receive Cen10 T-shirt and Chromebook  
+* Aug 12: &ensp; Schedule viewable on HAC
+* Aug 13: &ensp; First day of school (Thur) - virtual
+* Aug 21: &ensp; No school (Fri)
+* Aug 28: &ensp; No school (Fri)
+* Sept 3:  &ensp; First day of in-person on-campus classes. Come to school for one day, then have a 4-day weekend, and then return to face-to-face school on Sept 8
+* Sept 4: &ensp; No school (Fri)
+* Sept 7: &ensp; No school (Mon Labor Day)
+* Sept 8: &ensp; Normal School
 * Latest School [Calendar](http://www.friscoisd.org/docs/default-source/frisco-isd-calendars/2020-21-school-calendar.pdf?sfvrsn=6)
 
 
@@ -59,10 +59,10 @@ One stop shop for latest information...
 ### Important Football Dates:
 
 <b>Freshman Conditioning:<b/>
-* August 3: &ensp;  8:30-10:30 AM
-* August 4:  &ensp;  8:30-10:30 AM
-* August 5, 6,7: &ensp; 6:15-8:15 AM
-* August 10, 12, 13: &ensp;  6:15-8:15 AM
+* Aug 3: &ensp;  8:30-10:30 AM
+* Aug 4:  &ensp;  8:30-10:30 AM
+* Aug 5, 6,7: &ensp; 6:15-8:15 AM
+* Aug 10, 12, 13: &ensp;  6:15-8:15 AM
 
 
 

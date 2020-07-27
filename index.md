@@ -20,10 +20,9 @@ One stop shop for latest information...
 
 
 
-<br>
-
-
 * * *
+
+<br>
 
 
 
@@ -48,7 +47,7 @@ One stop shop for latest information...
 
 <br>
 
-* * *
+
 
 
 
@@ -71,7 +70,7 @@ One stop shop for latest information...
 
 <br>
 
-* * *
+
 
 
 
@@ -87,7 +86,7 @@ One stop shop for latest information...
 
 <br>
 
-* * *
+
 
 
 
@@ -114,7 +113,7 @@ One stop shop for latest information...
 
 <br>
 
-* * *
+
 
 
 
@@ -137,7 +136,7 @@ One stop shop for latest information...
 
 <br>
 
-* * *
+
 
 
 
@@ -158,7 +157,7 @@ One stop shop for latest information...
 
 <br>
 
-* * *
+
 
 
 
@@ -178,7 +177,7 @@ One stop shop for latest information...
 
 <br>
 
-* * *
+
 
 
 
@@ -206,7 +205,6 @@ One stop shop for latest information...
 
 <br>
 
-* * *
 
 
 
@@ -224,8 +222,6 @@ One stop shop for latest information...
 
 
 <br>
-
-* * *
 
 
 
@@ -246,7 +242,6 @@ One stop shop for latest information...
 
 <br>
 
-* * *
 
 
 
@@ -262,7 +257,6 @@ One stop shop for latest information...
 
 <br>
 
-* * *
 
 
 
@@ -278,7 +272,6 @@ Students wishing to submit documentation for the district’s community service 
 
 <br>
 
-* * *
 
 
 

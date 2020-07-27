@@ -35,15 +35,15 @@ One stop shop for latest information...
 
 ### Important Dates:
 
-* Aug 4:  &ensp; Freshmen “pick-up” at CHS to receive Cen10 T-shirt/Chromebook  
+* Aug 04:  &ensp; Freshmen “pick-up” at CHS to receive Cen10 T-shirt/Chromebook  
 * Aug 12: &ensp; Student schedule will be viewable on HAC
 * Aug 13: &ensp; First day of school (Thur) - virtual
 * Aug 21: &ensp; No school (Fri)
 * Aug 28: &ensp; No school (Fri)
-* Sept 3:  &ensp; First day of in-person on-campus classes. Come to school for one day, then have a 4-day weekend, and then return to face-to-face school on Sept 8
-* Sept 4: &ensp; No school (Fri)
-* Sept 7: &ensp; No school (Mon Labor Day)
-* Sept 8: &ensp; Normal School
+* Sept 03:  &ensp; First day of in-person on-campus classes. Come to school for one day, then have a 4-day weekend, and then return to face-to-face school on Sept 8
+* Sept 04: &ensp; No school (Fri)
+* Sept 07: &ensp; No school (Mon Labor Day)
+* Sept 08: &ensp; Normal School
 * Latest School [Calendar](http://www.friscoisd.org/docs/default-source/frisco-isd-calendars/2020-21-school-calendar.pdf?sfvrsn=6)
 
 
@@ -60,9 +60,9 @@ One stop shop for latest information...
 ### Important Football Dates:
 
 <b>Freshman Conditioning:<b/>
-* Aug 3: &ensp;  8:30-10:30 AM
-* Aug 4:  &ensp;  8:30-10:30 AM
-* Aug 5, 6,7: &ensp; 6:15-8:15 AM
+* Aug 03: &ensp;  8:30-10:30 AM
+* Aug 04:  &ensp;  8:30-10:30 AM
+* Aug 05, 6,7: &ensp; 6:15-8:15 AM
 * Aug 10, 12, 13: &ensp;  6:15-8:15 AM
 
 
@@ -101,8 +101,15 @@ One stop shop for latest information...
 
 
 
-
 ### Education:
+
+*   [Centennial H.S. main page](http://schools.friscoisd.org/campus/high-school/centennial/home)
+*   [Centennial H.S. main links](http://schools.friscoisd.org/campus/high-school/centennial/home)
+
+
+http://schools.friscoisd.org/campus/high-school/centennial/home
+
+
 
 *   [Bell Schedule](files/bell.txt)
 *   [HAC](hac.friscoisd.org/HomeAccess/Account/LogOn)
@@ -111,7 +118,7 @@ One stop shop for latest information...
 *   [2020-21 Virtual Course Offerings](https://www.friscoisd.org/departments/covid-19/virtual-instruction/2020-21-course-offerings)
 *   [School Cafe](https://www.schoolcafe.com/)
 *   [Technology Quick Reference Sheet](https://www.smore.com/app/reporting/out/euq6d?u=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1oAmbn5sJW-sdFqOaiFOAAMnNw8fGEU54N5GA4o6Ih-c%2Fedit%3Fusp%3Dsharing&t=https://docs.google.com/document/d/1oAmbn5sJW-sdFqOaiFOAAMnNw8fGEU54N5GA4o6Ih-c/edit?usp=sharing&w=w-5947685056&i=&l=l-5548263445) - GoogleDoc references for both in-person and virtual courses at CHS
-*   [Centennial H.S. main page](http://schools.friscoisd.org/campus/high-school/centennial/home)
+
 *   [CHS Newsletters](https://sites.google.com/friscoisd.org/chsnewsletter/home?authuser=0)
 
 
@@ -300,6 +307,7 @@ Students wishing to submit documentation for the district’s community service 
 * gps connect share
 * online training 45 min class
   * https://fisd.instructure.com/enroll/PKY4R4
+* peruse http://schools.friscoisd.org/campus/high-school/centennial/home
 
 
 

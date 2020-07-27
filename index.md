@@ -43,7 +43,7 @@ One stop shop for latest information...
 
 ### Important Football Dates:
 
-<b>Freshman Conditioning:</>
+<b>Freshman Conditioning:<b/>
 * August 3:   8:30-10:30 AM
 * August 4:   8:30-10:30 AM
 * August 5, 6,7: 6:15-8:15 AM

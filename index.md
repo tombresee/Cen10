@@ -293,7 +293,7 @@ Students wishing to submit documentation for the district’s community service 
 * install all apps including canvas, etc
 * social media installed and ready 
 * https://docs.google.com/document/d/1oAmbn5sJW-sdFqOaiFOAAMnNw8fGEU54N5GA4o6Ih-c/edit#
-* pts identified alpha, beta
+* alpha, beta, gamma
 * gps connect share
 * online training 45 min class
   * https://fisd.instructure.com/enroll/PKY4R4

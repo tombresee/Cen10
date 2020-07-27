@@ -16,6 +16,14 @@ One stop shop for latest information...
 
 
 
+![](files/calendar.png)
+
+
+<br>
+
+
+
+
 ### Important Dates:
 
 * 8/4:  &ensp; Freshmen “pick-up” at CHS to receive Cen10 T-shirt and Chromebook  

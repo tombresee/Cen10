@@ -40,10 +40,10 @@ One stop shop for latest information...
 * Aug 13: &ensp; First day of school (Thur) - virtual
 * Aug 21: &ensp; No school (Fri)
 * Aug 28: &ensp; No school (Fri)
-* Sept 03:  &ensp; First day of in-person on-campus classes. Come to school for one day, then have a 4-day weekend, and then return to face-to-face school on Sept 8
-* Sept 04: &ensp; No school (Fri)
-* Sept 07: &ensp; No school (Mon Labor Day)
-* Sept 08: &ensp; Normal School
+* Sep 03:  &ensp; First day of in-person on-campus classes. Come to school for one day, then have a 4-day weekend, and then return to face-to-face school on Sept 8
+* Sep 04: &ensp; No school (Fri)
+* Sep 07: &ensp; No school (Mon Labor Day)
+* Sep 08: &ensp; Normal School
 * Latest School [Calendar](http://www.friscoisd.org/docs/default-source/frisco-isd-calendars/2020-21-school-calendar.pdf?sfvrsn=6)
 
 

@@ -35,7 +35,7 @@ One stop shop for latest information...
 ### Important Dates:
 
 * Aug 4:  &ensp; Freshmen “pick-up” at CHS to receive Cen10 T-shirt and Chromebook  
-* Aug 12: &ensp; Schedule viewable on HAC
+* Aug 12: &ensp; Student schedule will be viewable on HAC
 * Aug 13: &ensp; First day of school (Thur) - virtual
 * Aug 21: &ensp; No school (Fri)
 * Aug 28: &ensp; No school (Fri)
@@ -287,15 +287,19 @@ Students wishing to submit documentation for the district’s community service 
 
 
 
-### JToDo:
+### ToDo:
 
-* Office 365 installation overview:  http://www.friscoisd.org/departments/technology-and-media-services/office-365
-* confirm access to all systems working ! 
-* install canvas app 
-* g-suite for education fully download 
+* install office 265 entities 
+    *  http://www.friscoisd.org/departments/technology-and-media-services/office-365
+* confirm overall access to all systems via multiple computer/cellphones
+* install all apps including canvas, etc
+* social media installed and ready 
 * https://docs.google.com/document/d/1oAmbn5sJW-sdFqOaiFOAAMnNw8fGEU54N5GA4o6Ih-c/edit#
-* pts alpha, beta
-* 
+* pts identified alpha, beta
+* gps connect share
+* online training 45 min class
+  * https://fisd.instructure.com/enroll/PKY4R4
+
 
 
 

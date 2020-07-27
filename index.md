@@ -19,7 +19,11 @@ One stop shop for latest information...
 ![](files/calendar.png)
 
 
+
 <br>
+
+
+* * *
 
 
 
@@ -44,6 +48,9 @@ One stop shop for latest information...
 
 <br>
 
+* * *
+
+
 
 
 
@@ -64,6 +71,8 @@ One stop shop for latest information...
 
 <br>
 
+* * *
+
 
 
 
@@ -77,6 +86,8 @@ One stop shop for latest information...
 
 
 <br>
+
+* * *
 
 
 
@@ -103,6 +114,8 @@ One stop shop for latest information...
 
 <br>
 
+* * *
+
 
 
 
@@ -124,6 +137,9 @@ One stop shop for latest information...
 
 <br>
 
+* * *
+
+
 
 
 
@@ -142,6 +158,10 @@ One stop shop for latest information...
 
 <br>
 
+* * *
+
+
+
 
 
 
@@ -157,6 +177,9 @@ One stop shop for latest information...
 
 
 <br>
+
+* * *
+
 
 
 
@@ -183,6 +206,10 @@ One stop shop for latest information...
 
 <br>
 
+* * *
+
+
+
 
 
 
@@ -197,6 +224,11 @@ One stop shop for latest information...
 
 
 <br>
+
+* * *
+
+
+
 
 
 
@@ -214,6 +246,11 @@ One stop shop for latest information...
 
 <br>
 
+* * *
+
+
+
+
 
 
 ### Safety:
@@ -224,6 +261,9 @@ One stop shop for latest information...
 
 
 <br>
+
+* * *
+
 
 
 
@@ -238,6 +278,10 @@ Students wishing to submit documentation for the district’s community service 
 
 <br>
 
+* * *
+
+
+
 
 
 
@@ -248,6 +292,7 @@ Students wishing to submit documentation for the district’s community service 
 * install canvas app 
 * g-suite for education fully download 
 * https://docs.google.com/document/d/1oAmbn5sJW-sdFqOaiFOAAMnNw8fGEU54N5GA4o6Ih-c/edit#
+
 
 
 

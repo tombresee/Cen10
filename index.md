@@ -40,7 +40,7 @@ One stop shop for latest information...
 
 ### Latest CHS News and Information Newsletter:
 
-*   [Bell Schedule](https://www.smore.com/euq6d-chs-news-and-information)
+*   [newsletter](https://www.smore.com/euq6d-chs-news-and-information)
 
 
 

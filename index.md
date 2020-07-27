@@ -38,6 +38,18 @@ One stop shop for latest information...
 
 
 
+### Latest CHS News and Information Newsletter:
+
+*   [Bell Schedule](https://www.smore.com/euq6d-chs-news-and-information)
+
+
+
+
+
+<br>
+
+
+
 
 ### Education:
 
@@ -50,6 +62,8 @@ One stop shop for latest information...
 *   [Technology Quick Reference Sheet](https://www.smore.com/app/reporting/out/euq6d?u=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1oAmbn5sJW-sdFqOaiFOAAMnNw8fGEU54N5GA4o6Ih-c%2Fedit%3Fusp%3Dsharing&t=https://docs.google.com/document/d/1oAmbn5sJW-sdFqOaiFOAAMnNw8fGEU54N5GA4o6Ih-c/edit?usp=sharing&w=w-5947685056&i=&l=l-5548263445) - GoogleDoc references for both in-person and virtual courses at CHS
 *   [Centennial H.S. main page](http://schools.friscoisd.org/campus/high-school/centennial/home)
 *   [CHS Newsletters](https://sites.google.com/friscoisd.org/chsnewsletter/home?authuser=0)
+
+
 
 
 
@@ -139,6 +153,20 @@ One stop shop for latest information...
 
 *   [COVID FISD FAQ](https://www.friscoisd.org/departments/covid-19/coronavirus)
   * [H.S. Protocol](https://docs.google.com/document/d/e/2PACX-1vRJw0oRCNzjS5w4qpQjZe1MMVM0nLfJzXm31PkExwcamNHjeRDu32WDnS-iWeixE3irHBeBEOdlp-TY/pub)
+
+
+
+<br>
+
+
+
+### Submitting Community Service Hours:
+
+Students wishing to submit documentation for the district’s community service recognition program must do so by the end of each school year; hours accrued during the summer months may be submitted the following school year. Students who submit at least 100 hours of properly documented, eligible activities to their Xello account by April 1 of their Senior year will receive a recognition cord for graduation. Xello is accessed via a tile in the Student Portal. Students are encouraged to identify eligible activities prior to completing hours; this information is available on p. 37 of the [FISD Academic Guide](https://www.smore.com/app/reporting/out/euq6d?u=https%3A%2F%2Fwww.friscoisd.org%2Fdocs%2Fdefault-source%2Fresources-information%2F2020-21-academic-guide-and-course-catalog.pdf%3Fsfvrsn%3D4&t=FISD%20Academic%20Guide&w=w-4545837832&i=&l=l-5463440625). To help you plan ahead: contact information for an adult (other than the student’s parent) supervising the activity is required for this submission.
+
+
+
+
 
 
 

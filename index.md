@@ -11,7 +11,9 @@ One stop shop for latest information...
 
 
 
+
 * * *
+
 
 
 
@@ -28,6 +30,7 @@ One stop shop for latest information...
 * 9/7: &ensp; No school (Mon Labor Day)
 * 9/8: &ensp; Normal School
 * Latest School Calendar [pdf](http://www.friscoisd.org/docs/default-source/frisco-isd-calendars/2020-21-school-calendar.pdf?sfvrsn=6)
+
 
 
 
@@ -54,7 +57,7 @@ One stop shop for latest information...
 ### Education:
 
 *   [Bell Schedule](files/bell.txt)
-*   [HAC](https://hac.friscoisd.org/HomeAccess/Account/LogOn?ReturnUrl=%2fhomeaccess%2f)
+*   [HAC](hac.friscoisd.org/HomeAccess/Account/LogOn)
 *   [Canvas](https://fisd.instructure.com/)
 *   [FISD Academic Guide](https://github.com/tombresee/Cen10/raw/master/files/2020-21-academic-guide-and-course-catalog.pdf)
 *   [2020-21 Virtual Course Offerings](https://www.friscoisd.org/departments/covid-19/virtual-instruction/2020-21-course-offerings)
@@ -122,6 +125,8 @@ One stop shop for latest information...
 *   [@Cen10 News - TW](https://twitter.com/Cen10News)
 *   [@Centennial Wrestling - TW](https://twitter.com/cen10wrestling?lang=en)
 *   [@SOCfisd - TW](https://twitter.com/socfisd) - Student Opportunity Center
+*   [@CHSTitanNation - TW](https://twitter.com/CHSTitanNation)
+
 
 
 
@@ -154,6 +159,8 @@ One stop shop for latest information...
 *   [FISD Depts](https://www.friscoisd.org/departments)
 *   [FISD Students](https://www.friscoisd.org/students)
 *   [Student Portal](https://portal.friscoisd.org/LoginPolicy.jsp)
+*   https://portal.friscoisd.org/secure/SecureCloudAccessProfile/FinishLogin.jsp
+
 
 
 
@@ -179,6 +186,21 @@ One stop shop for latest information...
 Students wishing to submit documentation for the district’s community service recognition program must do so by the end of each school year; hours accrued during the summer months may be submitted the following school year. Students who submit at least 100 hours of properly documented, eligible activities to their Xello account by April 1 of their Senior year will receive a recognition cord for graduation. Xello is accessed via a tile in the Student Portal. Students are encouraged to identify eligible activities prior to completing hours; this information is available on p. 37 of the [FISD Academic Guide](https://www.smore.com/app/reporting/out/euq6d?u=https%3A%2F%2Fwww.friscoisd.org%2Fdocs%2Fdefault-source%2Fresources-information%2F2020-21-academic-guide-and-course-catalog.pdf%3Fsfvrsn%3D4&t=FISD%20Academic%20Guide&w=w-4545837832&i=&l=l-5463440625). To help you plan ahead: contact information for an adult (other than the student’s parent) supervising the activity is required for this submission.
 
 
+
+
+
+<br>
+
+
+
+
+### JToDo:
+
+* Office 365 installation overview:  http://www.friscoisd.org/departments/technology-and-media-services/office-365
+* confirm access to all systems working ! 
+* install canvas app 
+* g-suite for education 
+* https://docs.google.com/document/d/1oAmbn5sJW-sdFqOaiFOAAMnNw8fGEU54N5GA4o6Ih-c/edit#
 
 
 

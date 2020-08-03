@@ -173,6 +173,16 @@ One stop shop for latest information...
 
 
 
+### Clubs:
+
+*  [clubs list](https://docs.google.com/document/d/19OKm_GTjrc_0ccd7UIu5TzPx6mpJ88zHF2vC6-bjj3g/edit) 
+
+
+
+
+<br>
+
+
 
 
 ### Student Computer Request Form:

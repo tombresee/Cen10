@@ -45,7 +45,7 @@ One stop shop for latest information...
 * Sep 04: &ensp; No school (Fri)
 * Sep 07: &ensp; No school (Mon - Labor Day)
 * Sep 08: &ensp; Normal School
-* Latest School [Calendar](https://www.friscoisd.org/docs/default-source/frisco-isd-calendars/2020-21-school-calendar.pdf?sfvrsn=4)
+* [Latest School Calendar](https://www.friscoisd.org/docs/default-source/frisco-isd-calendars/2020-21-school-calendar.pdf?sfvrsn=4)
                            
 
 

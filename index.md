@@ -118,7 +118,7 @@ One stop shop for latest information...
 *   [School Cafe](https://www.schoolcafe.com/)
 *   [Technology Quick Reference Sheet](https://www.smore.com/app/reporting/out/euq6d?u=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1oAmbn5sJW-sdFqOaiFOAAMnNw8fGEU54N5GA4o6Ih-c%2Fedit%3Fusp%3Dsharing&t=https://docs.google.com/document/d/1oAmbn5sJW-sdFqOaiFOAAMnNw8fGEU54N5GA4o6Ih-c/edit?usp=sharing&w=w-5947685056&i=&l=l-5548263445) - GoogleDoc references for both in-person and virtual courses at CHS
 *   [CHS Newsletters](https://sites.google.com/friscoisd.org/chsnewsletter/home?authuser=0)
-
+*   [list of contacts](https://docs.google.com/spreadsheets/d/1NILBiUV8CoBHkHVWDDWDX3VjIji_NKPyGJM1KycXVts/edit#gid=0)
 
 
 
@@ -249,7 +249,7 @@ One stop shop for latest information...
 *   [FISD Depts](https://www.friscoisd.org/departments)
 *   [FISD Students](https://www.friscoisd.org/students)
 *   [Student Portal](https://portal.friscoisd.org/LoginPolicy.jsp)
-*   https://portal.friscoisd.org/secure/SecureCloudAccessProfile/FinishLogin.jsp
+*   [Student Portal](https://portal.friscoisd.org/secure/SecureCloudAccessProfile/FinishLogin.jsp)
 
 
 
@@ -312,12 +312,8 @@ Students wishing to submit documentation for the district’s community service 
 ### ToDo:
 
 * install ms office 365 entities [link](http://www.friscoisd.org/departments/technology-and-media-services/office-365)
-* confirm overall access to all systems via multiple computer/cellphones
-* install all apps including canvas, etc
-* social media installed and ready 
 * https://docs.google.com/document/d/1oAmbn5sJW-sdFqOaiFOAAMnNw8fGEU54N5GA4o6Ih-c/edit#
-* online training 45 min class
-  * https://fisd.instructure.com/enroll/PKY4R4
+* online training 45 min class https://fisd.instructure.com/enroll/PKY4R4
 * peruse http://schools.friscoisd.org/campus/high-school/centennial/home
 * [tour I](https://drive.google.com/file/d/1hP2D1l0hTr_DvnLYgyd-X4OnBuuidIv9/view)
 * [tour II](https://drive.google.com/file/d/1prgkMIoaxROyhGCTrVNTa6kia3hrBgHM/view)

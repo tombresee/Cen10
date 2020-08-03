@@ -45,8 +45,8 @@ One stop shop for latest information...
 * Sep 04: &ensp; No school (Fri)
 * Sep 07: &ensp; No school (Mon - Labor Day)
 * Sep 08: &ensp; Normal School
-* Latest School [Calendar](http://www.friscoisd.org/docs/default-source/frisco-isd-calendars/2020-21-school-calendar.pdf?sfvrsn=6)
-
+* Latest School [Calendar](https://www.friscoisd.org/docs/default-source/frisco-isd-calendars/2020-21-school-calendar.pdf?sfvrsn=4)
+                           
 
 
 
@@ -149,8 +149,6 @@ One stop shop for latest information...
 
 
 <br>
-
-
 
 
 
@@ -290,8 +288,7 @@ Students wishing to submit documentation for the district’s community service 
 
 ### ToDo:
 
-* install ms office 365 entities 
-    *  [link](http://www.friscoisd.org/departments/technology-and-media-services/office-365)
+* install ms office 365 entities [link](http://www.friscoisd.org/departments/technology-and-media-services/office-365)
 * confirm overall access to all systems via multiple computer/cellphones
 * install all apps including canvas, etc
 * social media installed and ready 
@@ -301,7 +298,7 @@ Students wishing to submit documentation for the district’s community service 
 * online training 45 min class
   * https://fisd.instructure.com/enroll/PKY4R4
 * peruse http://schools.friscoisd.org/campus/high-school/centennial/home
-
+* 
 
 
 

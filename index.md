@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 ---
 
@@ -23,6 +23,7 @@ One stop shop for latest information...
 
 
 * * *
+
 
 
 <br>
@@ -56,6 +57,8 @@ One stop shop for latest information...
 
 
 
+
+* [tour](https://drive.google.com/file/d/1hP2D1l0hTr_DvnLYgyd-X4OnBuuidIv9/view)
 
 
 ### Important Football Dates:
@@ -202,7 +205,7 @@ One stop shop for latest information...
 *   [@Centennial Wrestling - TW](https://twitter.com/cen10wrestling?lang=en)
 *   [@SOCfisd - TW](https://twitter.com/socfisd) - Student Opportunity Center
 *   [@CHSTitanNation - TW](https://twitter.com/CHSTitanNation)
-
+*   [school tour](https://drive.google.com/file/d/1hP2D1l0hTr_DvnLYgyd-X4OnBuuidIv9/view)
 
 
 

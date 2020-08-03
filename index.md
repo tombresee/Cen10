@@ -57,10 +57,6 @@ One stop shop for latest information...
 
 
 
-
-* [tour](https://drive.google.com/file/d/1hP2D1l0hTr_DvnLYgyd-X4OnBuuidIv9/view)
-
-
 ### Important Football Dates:
 
 <b>Freshman Conditioning:<b/>
@@ -78,6 +74,7 @@ One stop shop for latest information...
 
 
 
+
 ### Freshman Orientation:
 
 *   [update](https://www.smore.com/a21mj-camp-cen10-freshmen-orientation?ref=email)
@@ -87,6 +84,10 @@ One stop shop for latest information...
 
 
 <br>
+
+
+
+
 
 
 
@@ -191,10 +192,6 @@ One stop shop for latest information...
 
 
 
-
-
-
-
 ### Social Media:
 
 *   [Centennial - FB](https://www.facebook.com/Cen10titans/)
@@ -203,7 +200,7 @@ One stop shop for latest information...
 *   [@Centennial Wrestling - TW](https://twitter.com/cen10wrestling?lang=en)
 *   [@SOCfisd - TW](https://twitter.com/socfisd) - Student Opportunity Center
 *   [@CHSTitanNation - TW](https://twitter.com/CHSTitanNation)
-*   [school tour](https://drive.google.com/file/d/1hP2D1l0hTr_DvnLYgyd-X4OnBuuidIv9/view)
+
 
 
 
@@ -298,7 +295,8 @@ Students wishing to submit documentation for the district’s community service 
 * online training 45 min class
   * https://fisd.instructure.com/enroll/PKY4R4
 * peruse http://schools.friscoisd.org/campus/high-school/centennial/home
-* 
+* [tour I]([school tour](https://drive.google.com/file/d/1hP2D1l0hTr_DvnLYgyd-X4OnBuuidIv9/view)
+* [tour II](https://drive.google.com/file/d/1prgkMIoaxROyhGCTrVNTa6kia3hrBgHM/view)
 
 
 

@@ -294,6 +294,8 @@ One stop shop for latest information...
 ### Submitting Community Service Hours:
 
 Students wishing to submit documentation for the district’s community service recognition program must do so by the end of each school year; hours accrued during the summer months may be submitted the following school year. Students who submit at least 100 hours of properly documented, eligible activities to their Xello account by April 1 of their Senior year will receive a recognition cord for graduation. Xello is accessed via a tile in the Student Portal. Students are encouraged to identify eligible activities prior to completing hours; this information is available on p. 37 of the [FISD Academic Guide](https://www.smore.com/app/reporting/out/euq6d?u=https%3A%2F%2Fwww.friscoisd.org%2Fdocs%2Fdefault-source%2Fresources-information%2F2020-21-academic-guide-and-course-catalog.pdf%3Fsfvrsn%3D4&t=FISD%20Academic%20Guide&w=w-4545837832&i=&l=l-5463440625). To help you plan ahead: contact information for an adult (other than the student’s parent) supervising the activity is required for this submission.
+* [community service ref sheet](https://docs.google.com/document/d/12DlosmmYYMzcO5iEix6qwFR1T_IJZe8fYKEWRYz9OX4/edit)
+
 
 
 

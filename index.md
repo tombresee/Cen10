@@ -307,7 +307,7 @@ Students wishing to submit documentation for the district’s community service 
 * online training 45 min class
   * https://fisd.instructure.com/enroll/PKY4R4
 * peruse http://schools.friscoisd.org/campus/high-school/centennial/home
-* [tour I]([school tour](https://drive.google.com/file/d/1hP2D1l0hTr_DvnLYgyd-X4OnBuuidIv9/view)
+* [tour I](https://drive.google.com/file/d/1hP2D1l0hTr_DvnLYgyd-X4OnBuuidIv9/view)
 * [tour II](https://drive.google.com/file/d/1prgkMIoaxROyhGCTrVNTa6kia3hrBgHM/view)
 * [tour III](https://drive.google.com/file/d/1mkv1ayOO0r9rnA9iAnSaKoXZ3zgmbLOi/view)
 

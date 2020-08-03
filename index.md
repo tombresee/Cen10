@@ -253,6 +253,20 @@ One stop shop for latest information...
 
 
 
+### Floor Plan for Centennial High:
+
+*   [pdf](files/floorplan.pdf)
+
+
+
+
+
+<br>
+
+
+
+
+
 ### Safety:
 
 *   [COVID FISD FAQ](https://www.friscoisd.org/departments/covid-19/coronavirus)
@@ -295,7 +309,7 @@ Students wishing to submit documentation for the district’s community service 
 * peruse http://schools.friscoisd.org/campus/high-school/centennial/home
 * [tour I]([school tour](https://drive.google.com/file/d/1hP2D1l0hTr_DvnLYgyd-X4OnBuuidIv9/view)
 * [tour II](https://drive.google.com/file/d/1prgkMIoaxROyhGCTrVNTa6kia3hrBgHM/view)
-
+* [tour III](https://drive.google.com/file/d/1mkv1ayOO0r9rnA9iAnSaKoXZ3zgmbLOi/view)
 
 
 
